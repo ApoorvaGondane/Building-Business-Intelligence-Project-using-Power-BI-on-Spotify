@@ -1,0 +1,201 @@
+,Artist,Track,Track_id,Track_popularity,Artist_id,Artist_Popularity,Genres,Followers,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+0,Akhil sachdeva,"Tera ban jaunga reprise (from ""t-series acoustics"")",2I7LHHFgXku7VAVRkWdJAU,46,3TOhzLRYnkkul71yRBxIoM,65,desi pop,58394,0.51,0.479,8,-7.52,0,0.0257,0.786,0.0014,0.159,0.285,93.992,3.73
+1,Arijit singh,Chhod diya,0NnaDlYvjuE6lpnGynSxTm,46,4YRxDV8wJFPHPTeXepOstw,74,desi hip hop,22364346,0.498,0.666,10,-6.176,0,0.0483,0.616,0.0,0.122,0.394,88.969,5.33
+2,Kala bhairava,Spirit of jersey,2Nt4dVdc1dgUluBRt3RMon,46,4tejKImNVmDcORNBuZ1l14,64,desi hip hop,654802,0.696,0.94,8,-3.225,1,0.215,0.273,0.0,0.348,0.416,98.97,4.46
+3,Meet bros.,Dil ka telephone,0i4r9oQAjxUlSVVp0ibNkx,47,0qpsFfOT3SmdGmnyV6rOhS,53,k-pop,508570,0.812,0.859,5,-3.367,0,0.165,0.513,0.0,0.174,0.793,102.022,3.49
+4,Chandan shetty,Chocolate girl,5VkLIgGZN83ZnPPTnKkBM3,46,2b4BOEtTbGchL0K53fvpgk,48,punjabi pop,51375,0.796,0.606,4,-10.899,1,0.0866,0.0874,0.0,0.103,0.604,99.996,3.36
+5,Mahesh hiremath,Datta digambara ya ho,0T1JFAPK06mcsrJF54qup5,46,3bXd6shaMKDPF6ypJrbulF,66,no specific genre,155214,0.654,0.661,1,-6.067,1,0.065,0.474,0.0,0.452,0.959,170.387,2.52
+6,Juice wrld,Let me know (i wonder why freestyle),3wwo0bJvDSorOpNfzEkfXx,78,4MCBfE4596Uoi2O4DtmEMz,48,punjabi pop,51375,0.635,0.537,7,-7.895,0,0.0832,0.172,0.0,0.418,0.383,125.028,3.59
+7,Lagnajita chakraborty,Preme pora baron,76lRYTeQqgRrrVaYmD1iRf,47,2I0Azs9QV5A3iyPjBu6UPM,54,desi hip hop,60814,0.593,0.323,11,-6.091,1,0.0267,0.777,0.0,0.126,0.409,112.019,3.94
+8,Hot shade,Dive,2aXC0fD6qziwlOZZqhCqTd,74,3GtCKJA4SkOxN65MWjm82R,79,pluggnb,1386202,0.654,0.787,4,-4.999,1,0.0502,0.00515,0.0,0.144,0.409,123.979,2.74
+9,Luis fonsi,Échame la culpa,0mlAOSILGRys2IbvyOT5VJ,72,4V8Sr092TqfHkfAA5fXXqG,82,big room,6594306,0.733,0.897,0,-3.652,1,0.0389,0.0391,0.0,0.117,0.649,96.006,2.9
+10,Marmar oso,Ruthless (nice guys always finish last),6HeCk6yewXH7WO4D93eub9,69,5rGbtFeEVjymN6xzE8opA6,49,koligeet,64824,0.724,0.269,5,-15.465,1,0.0456,0.388,0.0,0.0808,0.866,86.042,3.88
+11,Nova,Not around,1Adhz5VVDZxhojOLfQQUxa,74,3J2OSq7G34UlfnNB6YuZCF,89,canadian pop,67609711,0.499,0.695,6,-9.452,1,0.113,0.333,2.85e-06,0.659,0.235,131.006,3.07
+12,Karan aujla,Approach,1k8gWseb3tyZgS1p4NOQSt,47,6DARBhWbfcS9E4yJzcliqQ,59,drift phonk,18587,0.554,0.781,2,-5.094,1,0.143,0.359,0.0,0.114,0.855,79.575,3.14
+13,Sam c.s.,"Yaaradiyo - from ""gorilla""",1s3GJmmFs9TfcwV8s6z1sk,46,5VAyiDhBinVfc6RM5RKnLa,64,desi hip hop,3594505,0.692,0.64,4,-6.472,0,0.0585,0.383,0.0,0.178,0.316,95.979,3.81
+14,Ava max,So am i (feat. nct 127),6hIP8wBnZ74qA0xOXhXt3v,63,4npEfmQ6YuiwW1GpUmaq3F,60,k-pop,1706634,0.678,0.678,6,-4.724,1,0.0438,0.0461,0.0,0.0751,0.55,130.05,3.08
+15,Kewal walanj,"Ek porgi manat bharli - from ""ek porgi manat bharli""",40oBc5WXNwIh1RWR8ZT4jx,46,2emIARAZnNelJVu7GXaPV6,48,desi pop,95855,0.708,0.789,6,-6.724,1,0.0806,0.276,0.0,0.224,0.888,90.024,2.9
+16,Taylor swift,False god,5hQSXkFgbxjZo9uCwd11so,71,06HL4z0CvFAxyc27GXpf02,51,haryanvi hip hop,341692,0.739,0.32,11,-10.862,0,0.239,0.736,0.000147,0.111,0.351,79.97,3.34
+17,Zayn,"A whole new world (end title) - from ""aladdin""",1iWHabUgUuuKLBa0TzTHfk,65,5ZsFI1h6hIdQRw2ti0hz81,66,desi pop,5897201,0.302,0.414,2,-8.16,1,0.0319,0.0575,0.0,0.0861,0.105,110.508,4.05
+18,Ravi basrur,Petrol,2IhXNHtT5U5nbSAJjNH9yQ,47,2q1LRGJHpFxovU8Tz6OgRn,76,classic bollywood,7302949,0.522,0.879,0,-10.517,0,0.053,0.0513,0.807,0.0603,0.132,120.011,1.01
+19,Taylor swift,Death by a thousand cuts,2dgFqt3w9xIQRjhPtwNk3D,73,06HL4z0CvFAxyc27GXpf02,55,desi pop,96957,0.712,0.732,4,-6.754,1,0.0629,0.454,0.0,0.319,0.313,94.071,3.31
+20,Rahul vaidya,Chand si mehbooba,5IHIHetzeMtr254lfnFUox,46,6XypcJDBmfuRjq52PFUVwd,81,k-pop,9592459,0.407,0.283,4,-11.398,0,0.0332,0.833,0.0,0.367,0.284,152.436,3.47
+21,Diljit dosanjh,Sauda khara khara,1v8H06ctqfMX8IUxU9nCaI,48,2FKWNmZWDBZR4dE5KX4plR,53,bhojpuri pop,97327,0.687,0.919,10,-3.28,1,0.0635,0.0939,4.38e-06,0.105,0.877,145.037,3.52
+22,Kaash paige,Love songs - bonus,6qL5UWxRSQYml9O99ozoLv,76,0f2YkMXwFNJNSX7MymevKE,51,desi hip hop,43428,0.641,0.355,5,-10.599,1,0.0906,0.831,0.000855,0.11,0.453,120.032,2.48
+23,Asees kaur,"Bimar dil (from ""pagalpanti"")",0KZQko7rcau4ube5CfND9T,47,1sVmXkzX2ukc6QvasrDBES,71,punjabi pop,485167,0.752,0.696,1,-4.648,1,0.0667,0.0244,1.35e-06,0.154,0.355,89.991,5.0
+24,Tory lanez,The take (feat. chris brown),0Odu228D0yGcFySGuxU4rY,70,2jku7tDXc6XoB6MO2hFuqg,60,k-pop,1706634,0.464,0.547,7,-8.137,0,0.339,0.0511,0.0,0.155,0.423,67.003,3.69
+25,Liana flores,Rises the moon,51Grh1RyUDcMBbpuyUIUHI,83,5zVu34ozw0BzXIcNHqkO0u,61,gen z singer-songwriter,171826,0.483,0.129,5,-20.149,0,0.0349,0.947,0.145,0.106,0.203,137.35,2.7
+26,Ayisha abdul basith,Tasbih,0OrThl2QQEzkqqJMb68JG0,54,5CK0g8yxcuauorabPxsA5K,71,comic,1616655,0.299,0.396,4,-10.697,0,0.0327,0.958,0.0403,0.356,0.146,60.289,3.41
+27,Kunal ganjawala,Mann mein shiva,2G3X3L3OWdALThn2Qz2nmz,46,3t4P7aXVor3NxlJPZxLzOQ,32,no specific genre,426,0.655,0.82,5,-6.348,0,0.134,0.296,0.0,0.385,0.611,80.053,5.29
+28,Bea miller,Feel something,7JDWhC422Gtk1Bq0mL3OTC,69,1o2NpYGqHiCq7FoiYdyd1x,33,no specific genre,1012,0.74,0.415,0,-8.914,1,0.0707,0.242,0.000156,0.319,0.156,136.029,3.0
+29,G money,Simplicity,0aDSoUUGVdIbOiaCjV2EvN,47,6nESeogcP9RHcCxenWws4f,69,filmi,5021964,0.741,0.709,9,-4.416,0,0.294,0.228,0.0,0.137,0.668,179.729,3.04
+30,Sukhwinder singh,"Maay bhavani (from ""tanhaji - the unsung warrior"")",4kBlS162jP01b4uFMbGx3A,46,19MVxKZZdPj2X0F8pi0OCT,59,punjabi pop,107703,0.483,0.785,10,-6.656,1,0.254,0.525,2.64e-05,0.111,0.555,130.017,4.31
+31,Pritam,Fikar not,330vcLQSoOetyGLe426JSU,46,1wRPtKGflJrBx9BmLsSwlU,47,desi pop,194870,0.609,0.849,5,-6.826,0,0.0859,0.375,0.0019,0.058,0.869,185.889,3.15
+32,Pratiksha vashishtha,Achyutam keshavam krishna damodaram,6HAM3aUeIVp3aRtVD3RBWw,46,1kkz7GtycrTZlHi5bvwFmS,63,desi pop,569392,0.618,0.67,4,-7.518,1,0.0317,0.451,0.000109,0.249,0.445,91.98,4.57
+33,美波,カワキヲアメク,1gUAX2ImxDsB3YDcyxMXlB,70,1KXJUpTiNeMv93LrJbbm7G,53,bhojpuri pop,97327,0.541,0.846,6,-2.729,0,0.0551,0.0122,0.000149,0.163,0.524,129.138,4.2
+34,Vishal-shekhar,Jai jai shivshankar,6IYS7wNZxRBvLpwMZDbcdP,46,6Mv8GjQa7LKUGCAqa9qqdb,51,desi hip hop,43428,0.825,0.904,5,-5.414,0,0.0787,0.257,1.21e-05,0.0715,0.528,129.036,3.84
+35,Hemachandra vedala,"Bommali (from ""billa"")",72SEGDiR5zCUnFng3A5Rw5,46,26R3WRFIf6FbbNAQuMIjkN,79,filmi,26660301,0.887,0.722,1,-7.122,1,0.0745,0.0297,0.0635,0.0741,0.674,119.007,5.25
+36,Unnikrishnan,"Ennavale adi ennavale (from ""kaadhalan"")",7G7bUcCrwXHgFc4HZrZhdx,46,0mV4UQ0gHg59AAUtg968pX,80,dance pop,28564011,0.611,0.327,3,-15.109,1,0.0352,0.555,0.0,0.108,0.431,97.016,5.2
+37,Thefatrat,Stronger,0iTI5FTB9iEUtcMdx9YyZS,65,3OKg7YbOIatODzkRIbLJR4,32,indian lo-fi,442,0.673,0.916,6,-3.814,0,0.0344,0.0658,0.0587,0.0769,0.513,160.025,3.42
+38,Millind gaba,"She don't know (from ""blessed"")",23dCPIMivfUQwUPSeDSUPc,46,7hVmdlsJp0E2WQIvVl8ngN,39,punjabi pop,8296,0.735,0.872,1,-3.053,0,0.0398,0.58,0.0,0.541,0.833,101.995,3.39
+39,Mallikarjun,Nee navvula,692044OFkn5V3HieRI82PW,46,40Ce6P4AGMq3NXCDXVSZaa,79,melodic drill,1895651,0.873,0.593,9,-8.198,0,0.101,0.0715,1.41e-05,0.161,0.837,120.999,4.71
+40,Rajvir jawanda,Putt jatt da,7vM0UH6LHdszSCU9ZgLkWA,47,6TRcwPQiddMiQ6H22iwnoG,76,desi pop,7124265,0.665,0.937,4,-3.453,0,0.244,0.0937,0.0,0.314,0.789,175.988,3.59
+41,Sunanda sharma,Duji vaar pyar,1B5D51wDedzm68VnAEcH0a,47,7AKO4PWJ6ToZVUfA5xmsIY,76,desi pop,7124265,0.562,0.641,5,-4.901,0,0.0845,0.643,0.0,0.28,0.627,170.644,3.26
+42,Pradeep kumar,Kaathellam,5YPRNP0c9KiZSMJDVL3h0x,45,15ClyGUe5g2vllncIC4tp6,59,bhojpuri pop,212719,0.645,0.303,6,-9.792,0,0.0588,0.428,3.82e-06,0.4,0.675,120.9,3.73
+43,Guru randhawa,"Yaar mod do (from ""yaar mod do"")",5QV83uQdUHUZ5BvOh2ughE,46,5rQoBDKFnd1n6BkdbgVaRL,54,desi hip hop,234764,0.603,0.503,2,-4.241,1,0.0338,0.773,0.0,0.124,0.769,127.985,3.48
+44,Bharath bandaru,Memem chesamu preminchesamu,3F3EzscQ97QMQaoRH5UITf,46,7LWrsM0jbLNAS04L8mQ1nx,76,dance pop,562332,0.355,0.479,1,-8.883,0,0.0537,0.941,3e-06,0.111,0.578,183.855,1.71
+45,James tw,You & me,1bQhZOoXYqjXs7u7rFXo0h,69,0B3N0ZINFWvizfa8bKiz4v,68,uk hip hop,2495731,0.714,0.686,11,-6.333,1,0.0445,0.203,7.76e-06,0.102,0.828,127.015,3.86
+46,Littleones,Baby sleep shhh,5qB5TZJtTY6gSBcIwv4gK8,61,2p8rLc4EurmlEyJq770JPl,79,hip hop,1176728,0.367,0.00194,4,-32.9,1,0.0564,0.934,0.991,0.0975,0.0224,141.427,1.44
+47,Jeremy zucker,Comethru (with bea miller),0PgYPBGqF6Wm5KFHQ81nq5,64,3gIRvgZssIb9aiirIg0nI3,33,no specific genre,2844,0.757,0.192,0,-11.842,1,0.0515,0.572,0.0,0.606,0.595,94.024,3.03
+48,Vijay prakash,Dorassani,24akFlSJMkOKEBDJbjQtWw,46,4iA6bUhiZyvRKJf4FNVX39,71,punjabi pop,485167,0.447,0.635,7,-7.107,0,0.133,0.138,6.43e-05,0.0885,0.597,169.615,4.28
+49,Karan aujla,Hair,0zuMtev1UAFpcjHtirEMAy,47,6DARBhWbfcS9E4yJzcliqQ,72,k-pop girl group,4889429,0.619,0.888,0,-3.425,1,0.265,0.05,0.0,0.115,0.817,82.126,4.17
+50,Carys,Princesses don't cry,6wGnThB1aN5Qv0zQbur7ZR,57,7sNr4UxauWqLRElKZufDRU,65,no specific genre,58394,0.626,0.595,0,-4.975,0,0.0288,0.285,0.0,0.0858,0.65,74.985,3.54
+51,Polo g,Martin & gina,1VLtjHwRWOVJiE5Py7JxoQ,81,6AgTAQt8XS6jRWi4sX7w49,74,no specific genre,22364346,0.832,0.534,1,-7.813,0,0.253,0.345,0.0,0.165,0.116,93.924,2.21
+52,Rahat fateh ali khan,Ehd e wafa,4IerKuhlhshkAlK4XmKFy3,48,3OLGltG8UPIea8sA4w0yg0,64,no specific genre,654802,0.443,0.36,9,-12.772,1,0.0361,0.928,1.58e-05,0.0994,0.547,144.147,4.42
+53,Bts,Make it right,30YLyzfEjMQsXj4ZFslAmT,62,3Nrfpe0tUJi4K4DXYWgMUX,53,no specific genre,508570,0.639,0.706,7,-7.874,1,0.448,0.0104,0.0,0.132,0.259,105.782,3.77
+54,Ynw melly,Suicidal (remix) [feat. juice wrld],4S2uhQE8L9V6p7rj7SiauJ,73,1cNDP5yjU5vjeR8qMf4grg,48,no specific genre,51375,0.655,0.441,9,-5.245,0,0.0629,0.474,0.0,0.099,0.273,139.957,3.76
+55,Anirudh ravichander,"Nanbiye - from ""teddy""",1AdLxSuPIZRsIp7IM743dE,47,4zCH9qm4R2DADamUHMCa6O,66,no specific genre,155214,0.405,0.661,9,-4.897,0,0.0335,0.388,0.0,0.111,0.583,108.03,4.44
+56,Talwiinder,Save me,0kIJwJuXNPH46iBUcmo4i9,48,6QoCrBHsojKnOrsGNfRcTN,48,no specific genre,51375,0.453,0.49,1,-10.983,0,0.234,0.0937,0.00112,0.208,0.337,96.456,2.54
+57,Sid sriram,Naa kanulu yepudu,1JkSiGGPZzSJ6MlTNn1zsb,48,7qjJw7ZM2ekDSahLXPjIlN,54,no specific genre,60814,0.612,0.703,0,-6.45,1,0.039,0.822,2.18e-05,0.558,0.684,163.965,4.17
+58,D. imman,"Marandhaye - from ""teddy""",7lBWLsnWYvQOT95UhN7D46,47,1QcBqYUeQ4Ux3itkdDaFi0,79,no specific genre,1386202,0.362,0.711,9,-4.652,1,0.0386,0.525,0.0,0.329,0.336,164.649,4.99
+59,Dhanunjay seepana,Whattey beauty - telugu,5hP0A7WPiKHmuDizE2Vvcc,47,5DxwUWyGp1uejyE80iJcn0,82,no specific genre,6594306,0.908,0.895,2,-3.161,1,0.0826,0.317,5.15e-05,0.142,0.794,120.776,3.91
+60,Twice,Cry for me,2xtP8RNbo2BEMzLX7tK7aq,72,7n2Ycct7Beij7Dj7meI4X0,49,no specific genre,64824,0.702,0.692,10,-5.405,1,0.0539,0.0542,0.0,0.0877,0.419,144.896,3.4
+61,Asha bhosle,Sarvamangala mangalye,46HTXtYH8uGDfwshx83CdM,47,5as8A4G47Ohu9NSWs3Je8U,89,no specific genre,67609711,0.517,0.687,11,-5.157,1,0.0458,0.308,1.01e-05,0.293,0.215,81.934,0.93
+62,Pranaay,"Get ready to fight reloaded (from ""baaghi 3"") (feat. siddharth basrur)",3SglaOPDd7NRathWQmjFfY,47,58L9DePlTLE2D1I9Ohvs63,59,no specific genre,18587,0.774,0.79,8,-8.483,1,0.0416,0.0488,0.00134,0.164,0.536,98.984,2.86
+63,Kay vee singh,Mann jaa ve,3ycVVKP7uAJAGiBwLYlgx9,47,52sAo4U0x2dfde5UYFDU2n,64,no specific genre,3594505,0.688,0.729,11,-3.863,1,0.0798,0.284,0.0,0.114,0.694,172.114,3.37
+64,Nitya santoshini,Garuda gamana,7laCbGNj7EWW4eLTOfYpIR,47,3uGFHV1O8d86s1at3rlhJG,60,no specific genre,1706634,0.777,0.934,2,-4.014,0,0.0498,0.721,0.0,0.244,0.946,130.03,4.78
+65,Don toliver,Cardigan,0Li1OuXXfi7950ilZUFGkF,74,4Gso3d4CscCijv0lmajZWs,48,no specific genre,95855,0.747,0.497,4,-6.542,0,0.0401,0.248,0.0,0.138,0.0663,142.046,2.65
+66,Lele pons,Se te nota (with guaynaa),11EnQRgRMJwMAesfkB5pnu,71,6i3DxIlAqnDkwELLw4aVrx,51,no specific genre,341692,0.905,0.686,0,-3.152,1,0.0664,0.0907,0.0,0.266,0.963,103.013,2.6
+67,Karan aujla,Koka vs. coca,6bxn2f14Tcjeku9spH3SFn,49,6DARBhWbfcS9E4yJzcliqQ,66,no specific genre,5897201,0.808,0.789,6,-2.265,0,0.103,0.0415,0.0,0.0576,0.634,90.009,3.07
+68,Eminem,Higher,3eMsgWDRq5dKl5SBTYGv2J,70,7dGJo4pcD2V6oG8kP0tJRR,76,no specific genre,7302949,0.733,0.82,4,-4.758,0,0.218,0.0143,0.0,0.674,0.525,148.0,3.7
+69,Meet bros anjjan,"Baby doll (from ""ragini mms 2"")",28vRgwjAMWn8PsW09YCg55,47,5isfxZ3RSdBlSLn3cSFhnI,55,no specific genre,96957,0.836,0.839,4,-2.975,0,0.106,0.275,7.23e-06,0.181,0.508,103.991,3.56
+70,Arijit singh,Abar phire ele,2i8LulJesu7JyB5DuMhlpr,47,4YRxDV8wJFPHPTeXepOstw,81,no specific genre,9592459,0.446,0.533,9,-8.229,1,0.0381,0.61,0.0,0.411,0.169,156.082,5.13
+71,Korala maan,Barood dil,01ymEMTGrA1Fnkv81BP8Vu,48,6WZ8WCYWROs8IyMJOPeJ4G,53,no specific genre,97327,0.759,0.751,5,-4.06,0,0.0949,0.257,0.0,0.159,0.631,81.94,4.48
+72,Bangers only,When we were kids,1qG2NSd9c8wddWFmPty7ib,50,6aWaRINbCAt1TPJYJuDvtA,51,no specific genre,43428,0.758,0.367,6,-8.387,0,0.0574,0.262,0.0,0.103,0.186,123.909,3.23
+73,Stellar,Blur,16Azhyv8164hYxI8Ax3F5k,70,5yw4tA8D5uG7tT3NaDvq10,71,no specific genre,485167,0.834,0.6,5,-5.433,1,0.0313,0.245,0.0,0.0694,0.694,125.954,2.19
+74,Ed sheeran,Afterglow,0E4Y1XIbs8GrAT1YqVy6dq,74,6eUKZXaKkcviH0Ku9w2n3V,60,no specific genre,1706634,0.641,0.324,11,-5.851,1,0.0299,0.698,0.0,0.328,0.273,110.184,3.09
+75,Sidhu moose wala,Confession,3ggxLxmnuLEpIO5c5V9S5c,48,4PULA4EFzYTrxYvOVlwpiQ,61,no specific genre,171826,0.745,0.312,5,-15.284,0,0.0905,0.784,1.91e-06,0.111,0.489,135.931,2.35
+76,Prith v,The hanuman chalisa rap,5fbC10uq63kWj2Begp4DeM,47,71RYvQQ7Z25xllai2xKTsW,71,no specific genre,1616655,0.752,0.641,7,-8.609,0,0.267,0.431,0.0135,0.123,0.518,160.025,2.5
+77,Enhypen,Given-taken,69WpV0U7OMNFGyq8I63dcC,70,5t5FqBwTcgKTaWmfEbwQY9,32,no specific genre,426,0.631,0.649,8,-4.939,0,0.0377,0.17,0.0,0.321,0.459,108.07,3.05
+78,Cigarettes after sex,You're all i want,4nvLuqwTOZdEJI1fcHXv8h,68,1QAJqy2dA3ihHBFIHRphZj,33,no specific genre,1012,0.233,0.471,5,-10.947,1,0.0294,0.363,0.828,0.113,0.277,182.161,4.41
+79,Darshan raval,Judaiyaan,1BIhaVQCbMqFkvzWXdTaqy,47,2GoeZ0qOTt6kjsWW4eA6LS,69,no specific genre,5021964,0.491,0.386,1,-9.197,0,0.0298,0.877,0.0,0.0854,0.134,107.878,3.37
+80,J trix,Khaas hai,7pYQZwJogqgfJYYXwLliIu,47,3mOWS2HCVfTNCiPiRuDqdf,59,no specific genre,107703,0.604,0.856,6,-5.944,1,0.359,0.207,0.0,0.16,0.805,86.808,2.56
+81,Louis tomlinson,Always you,5KcT9rJDqQJUSFF3O9wPJ5,67,57WHJIHrjOE3iAxpihhMnp,47,no specific genre,194870,0.632,0.724,4,-4.821,1,0.0308,0.0384,0.0,0.0554,0.553,100.073,3.12
+82,Narhen ellalan,Moonu bgm,24jAP7IKsGWoZzQUmwE8Mm,48,77Ro7BMFZJZZUSnBvevTlX,63,no specific genre,569392,0.389,0.339,9,-8.643,0,0.0314,0.916,0.15,0.417,0.335,68.412,1.44
+83,Sista prod,"Eyes blue like the atlantic, pt. 2 (feat. powfu, alec benjamin & rxseboy)",1eCTQhsNA31FcwyNcJcf86,68,7cSbcJTJBBSXDjRNR2qD61,53,no specific genre,97327,0.702,0.616,6,-4.903,1,0.326,0.686,0.0,0.145,0.507,80.482,2.6
+84,Unknown boyz,Teri ungli pakad ke chalaaa,2YbksMedVkIcsxhTOyDo7W,47,4sAv1OOvDHlWSDJnGsacED,51,no specific genre,43428,0.451,0.284,11,-5.13,0,0.0313,0.909,0.0,0.115,0.391,77.263,3.39
+85,Apurva tamang,Timrai tira,1ohiKweD0FTIs7WuEUnxJr,50,1o3w6uL4JCuQX19stjhf3F,79,no specific genre,26660301,0.55,0.439,5,-10.644,1,0.0644,0.606,8.32e-06,0.0861,0.461,109.855,2.08
+86,Siddh,Hukumat,2Q9yt6YZuSSOwaWriqUX4o,47,2O2zQMpJF97uRqphTsm7hV,80,no specific genre,28564011,0.559,0.702,1,-5.82,0,0.378,0.0892,0.0,0.417,0.635,171.84,3.86
+87,Pritam,Shayad - reprise,2L2YNB3YIletW4fUtwphDv,48,1wRPtKGflJrBx9BmLsSwlU,32,no specific genre,442,0.432,0.535,8,-7.34,1,0.032,0.904,0.000641,0.102,0.322,135.849,4.1
+88,Guru randhawa,Lagdi lahore di,31d3tVd82tx2sjA2VQ3PMZ,48,5rQoBDKFnd1n6BkdbgVaRL,39,no specific genre,8296,0.786,0.797,6,-4.063,1,0.0414,0.233,0.0,0.0861,0.453,95.014,3.59
+89,Everglow,Dun dun,3ejAkJLWQSEJDqDXxK3efB,67,3ZZzT0naD25RhY2uZvIKkJ,79,no specific genre,1895651,0.692,0.881,11,-2.563,0,0.0461,0.0457,4.45e-06,0.146,0.432,103.053,3.2
+90,Maanya arora,Mera aap ki kripa se,3JhpowRDPWFZAOYFMsDtzU,47,2yis41rltks0pQr6nCBAD6,76,no specific genre,7124265,0.597,0.472,6,-5.216,1,0.0254,0.628,0.0,0.162,0.174,109.817,5.1
+91,Amar sehmbi,Debate,5b8pgpJLAKGNESHnjH2ppZ,47,39qok0BZ6YbUgGWRH4UEEY,76,no specific genre,7124265,0.764,0.737,6,-6.329,1,0.298,0.202,0.0,0.111,0.648,82.06,3.7
+92,Pawan singh,"Kahelu ki laika bani - from ""pawan putra""",0RQz8LzWfanXVpQw9F0yCo,47,1T7MiVJ2MJlR5GKi11w4VT,59,no specific genre,212719,0.707,0.965,8,-3.18,1,0.0896,0.072,0.0,0.151,0.795,134.854,3.09
+93,Rakesh mishra,Teri doli,1gE4LXEG1455LFvjvlP5o7,47,50pJmKwzcWuWZWGSHkleHZ,54,no specific genre,234764,0.512,0.922,6,-1.449,0,0.0543,0.169,0.0,0.354,0.942,169.926,4.61
+94,Ramya behra,"Nuvve nuvve (from ""red"")",7Ft65MCYElRCDo7jOekQFs,47,4svvMm4TQnkphZJfhLCzzv,76,no specific genre,562332,0.648,0.885,4,-2.822,0,0.0445,0.258,1.02e-06,0.241,0.374,110.966,4.22
+95,Millind gaba,Teri yaari,0xYs3EAhGddtEe2OvuvYvn,47,7hVmdlsJp0E2WQIvVl8ngN,68,no specific genre,2495731,0.746,0.899,2,-4.248,1,0.0746,0.23,0.0,0.296,0.559,89.986,3.19
+96,Sujatha,"Poo pookum oosai (from ""minsara kanavu"")",6uz9eJxcD9HmyRgWmk9h9H,47,2JEjaa7hWhE1BbL3OcoeFR,79,no specific genre,1176728,0.833,0.58,2,-13.021,1,0.0737,0.0306,1.4e-05,0.0956,0.713,99.999,6.74
+97,Ash king,Ya habibi,2Tp6ANSbloxbty2DR0uws7,49,1cfG7UM0OD4O1II1nd15Qo,33,no specific genre,2844,0.752,0.83,10,-1.41,0,0.0636,0.137,1.71e-06,0.333,0.538,99.989,3.8
+98,Talat mahmood,"Ye hawa ye raat ye chandni, from ''sangdil''",64zq71fPxxKPb9f0zcVMQS,47,2fi9hpqNbi5neTbKSqG0vW,71,no specific genre,485167,0.455,0.323,5,-10.802,0,0.0325,0.987,0.914,0.266,0.694,88.851,3.52
+99,Charlie puth,Girlfriend,1UNs8AlFM8c0uAkSyjIW3P,61,6VuMaDnrHyPL1p4EHjYLi7,72,no specific genre,4889429,0.758,0.583,1,-6.361,1,0.0421,0.18,5.12e-05,0.107,0.797,97.537,2.96
+100,Prem dhillon,Mere wala jatt,7Hvo0urb8RjR2jVqvFgYZZ,50,6IP4VnqS1pOiQcPVP4zx0H,65,no specific genre,58394,0.807,0.46,2,-6.915,1,0.183,0.0707,0.0,0.15,0.459,140.104,3.73
+101,This is gb,Scared to love,2SBUPbrHybfRwaJHxFizDz,51,2W0uc5BFijRycFJisWgfXs,74,no specific genre,22364346,0.812,0.418,6,-8.247,0,0.132,0.194,0.0,0.126,0.474,120.006,3.4
+102,Samar singh,Kamariya ko touch karne na dungi,4FfLfsrINKOzC9vINjH4C9,50,001Ju8fxqMbobN0xjX7XPL,64,no specific genre,654802,0.73,0.941,6,-2.868,0,0.0754,0.0504,0.0,0.0671,0.958,127.965,3.11
+103,Weeekly,After school,52CBUrIdyf8tbZaUY9iawE,70,73B9bjqS2Z5KLXNGqXf64m,53,no specific genre,508570,0.634,0.928,1,-1.609,1,0.0514,0.00719,2.55e-06,0.0626,0.738,164.007,3.42
+104,Talwiinder,Tera saath,5TnlSZbrojgc8wczZGB7uN,53,6QoCrBHsojKnOrsGNfRcTN,48,no specific genre,51375,0.419,0.472,7,-8.452,1,0.319,0.559,0.0,0.108,0.346,170.265,3.58
+105,Tiësto,Don't be shy,0bI7K9Becu2dtXK1Q3cZNB,83,2o5jDhtHVPhrJdv3cEQ99Z,66,no specific genre,155214,0.77,0.787,11,-3.748,0,0.0583,0.198,0.0,0.262,0.513,119.986,2.34
+106,Prashant nakti,Mi naadkhula,2hbmcE3ajWAh66EH9s2P29,50,3f2UsSsI3E7VHH2mbBscJc,48,no specific genre,51375,0.325,0.52,5,-8.617,1,0.0456,0.573,1.14e-06,0.108,0.417,172.506,4.33
+107,Sumit goswami,Baapu,6AuV5ZcyThOVsWbjViKmCU,50,2oRDjwJpqBEvArcw8ZJ3JR,54,no specific genre,60814,0.672,0.693,1,-4.34,0,0.0428,0.191,0.0,0.142,0.413,82.052,2.95
+108,Yeat,Monëy so big,7BbaIYAdi3pg4MGl6PHwPv,79,3qiHUAX7zY4Qnjx8TNUzVx,79,no specific genre,1386202,0.693,0.575,2,-7.633,1,0.0906,0.121,0.0,0.104,0.353,138.016,2.67
+109,Roop bhullar,Never hope,6Xys3KVqk0GWBSngDupEBX,51,0sYnCQ9Eb3RbEHOqVQST8d,82,no specific genre,6594306,0.931,0.489,1,-6.721,1,0.255,0.127,0.000451,0.106,0.517,98.053,1.73
+110,Gravechill,Twilight,1Y5MJnYsIi3Qlifvss4jPI,76,1EnZjgGD81emhSdq6adEKt,49,no specific genre,64824,0.889,0.884,4,-4.323,1,0.0379,0.0111,0.804,0.0999,0.789,124.003,1.94
+111,Alka yagnik,"Achyutam keshavam by alka yagnik (from ""achyutam keshavam by alka yagnik - zee music devotional"")",2aNCrdzCbgFIkxs0qul8dT,50,3gBKY0y3dFFVRqicLnVZYz,89,no specific genre,67609711,0.623,0.792,4,-2.937,1,0.0317,0.436,0.0,0.318,0.509,92.948,4.52
+112,Jass manak,Bad munda,4qQGNeDc8ODQirpH5GS218,50,2P9JaCtpbQSuZOgvtPrUJ8,59,no specific genre,18587,0.854,0.876,7,-2.921,1,0.214,0.239,0.0,0.117,0.501,99.018,2.95
+113,Roop bhullar,Mukhdaa,39teGsZsgVtrI8fmKyGLZ3,51,0sYnCQ9Eb3RbEHOqVQST8d,64,no specific genre,3594505,0.654,0.72,1,-5.142,1,0.0723,0.012,9.37e-06,0.304,0.333,165.877,2.84
+114,Shilpi raj,Balamu ke hipiya,72lklpWnyxTytAyslbaFWj,50,12HVwm3qt6gOkKhDoj00m4,60,no specific genre,1706634,0.669,0.933,6,-2.444,0,0.0548,0.424,1.16e-06,0.171,0.855,110.124,4.1
+115,Justin bieber,Hailey,23EquxExXkNmGCCY96P0Iu,69,1uNFoZAHBGtllmzznpCI3s,48,no specific genre,95855,0.462,0.745,0,-6.588,0,0.0699,0.0367,0.0,0.0795,0.254,100.042,3.22
+116,Gulzaar chhaniwala,Yamraaj,3YaeW3xxbjiLITtHQIK3y0,50,1LOB46pDsJhtIXW1nbHYZo,51,no specific genre,341692,0.806,0.786,5,-3.819,0,0.0591,0.256,0.0,0.118,0.722,139.995,3.49
+117,Nazz,Bakasur,27foVuqh5nu2zOeIzoeR1h,50,7iEUKVcv42PUcIS696yadB,66,no specific genre,5897201,0.677,0.583,6,-11.103,0,0.0995,0.673,0.0,0.0996,0.344,175.65,3.1
+118,Jeon somi,Dumb dumb,6HAbPNraOVHwShFFtRVTik,61,7zYj9S9SdIunYCfSm7vzAR,76,no specific genre,7302949,0.853,0.748,2,-6.218,1,0.049,0.0177,0.000137,0.0698,0.383,103.045,2.45
+119,Arjan dhillon,Fire fur,5zg8nPxJSOijrHqCbp2taz,51,64DvMieEUCdrYKmEIhDt8G,55,no specific genre,96957,0.755,0.66,2,-7.188,1,0.236,0.0666,0.0,0.104,0.377,99.823,2.62
+120,Harrdy sandhu,Titliaan warga,37TjLqLaiOX1QmcKPgb3TC,51,4ITkqBlf5eoVCOFwsJCnqo,81,no specific genre,9592459,0.707,0.795,2,-3.195,1,0.0375,0.345,0.0,0.314,0.523,124.016,3.81
+121,Renuka panwar,Bp high,2DIudKcrtzAmRCPPJrfafs,50,2wDTo0nO2ZKJN7VUeGmuyg,53,no specific genre,97327,0.837,0.881,6,-3.37,0,0.0519,0.443,7.45e-05,0.171,0.923,101.969,1.93
+122,Samar singh,Haradiya ke chhapi,6oIkNrNm2K84lZKz7ooeKk,50,001Ju8fxqMbobN0xjX7XPL,51,no specific genre,43428,0.55,0.984,4,-0.873,0,0.142,0.16,0.0,0.336,0.76,142.005,3.5
+123,Stray kids,Christmas evel,5npCUsfrlhdyjxyCa32maW,68,2dIgFjalVxs4ThymZ67YCE,71,no specific genre,485167,0.878,0.777,5,-3.702,0,0.163,0.0437,0.0,0.401,0.878,139.989,2.98
+124,Rahul vaidya,Madhanya,26dEvQuPwM3T61PKzoJiht,51,6XypcJDBmfuRjq52PFUVwd,60,no specific genre,1706634,0.375,0.598,7,-5.98,1,0.0331,0.298,0.0,0.0658,0.206,78.735,3.84
+125,Dev negi,Is tarah aashiqui ka,4Kh9KlKTMjQO56YYeVkPli,51,04FsFHujpuqonrPXZrEJlK,61,no specific genre,171826,0.611,0.892,6,-4.768,0,0.0857,0.505,1.36e-05,0.263,0.555,180.04,3.82
+126,Bo burnham,Bezos i,5aszL9hl6SBzFNsOvw8u8w,72,2Waw2sSbqvAwK8NwACNjVo,71,no specific genre,1616655,0.694,0.948,2,-5.307,1,0.0361,0.00936,1.62e-05,0.139,0.705,115.044,0.97
+127,Nayab khan,Ye dil kyu toda,0wDG9zRnA43NM1MK14jrt0,50,2NJ2eBcOTLfrsPaFGLtprX,32,no specific genre,426,0.329,0.576,6,-11.254,1,0.13,0.418,2.99e-06,0.132,0.183,71.603,3.7
+128,Jeon somi,Xoxo,2ZMkjvuOQOD9HLplTDjbTA,64,7zYj9S9SdIunYCfSm7vzAR,33,no specific genre,1012,0.703,0.611,4,-6.376,1,0.0313,0.0705,0.0,0.133,0.527,144.991,3.46
+129,Mehro,Perfume,1kvkYrjZh561EJwERr8EsK,69,1ZwhhTSUPr7EBZHd1GjOT7,69,no specific genre,5021964,0.677,0.455,2,-7.086,1,0.0322,0.833,0.00602,0.105,0.704,129.975,2.49
+130,Nazz,Agar mai hota bhagwan,0MjW6RXyiW4zIBKubIghx5,50,7iEUKVcv42PUcIS696yadB,59,no specific genre,107703,0.771,0.548,11,-10.241,1,0.127,0.46,0.0,0.151,0.571,152.981,3.58
+131,Thaman s,Bheemla nayak title song,1dsVZC4ApjihqrmI8hfCA5,51,2FgHPfRprDaylrSRVf1UlN,47,no specific genre,194870,0.664,0.752,4,-6.937,0,0.0515,0.446,1.17e-05,0.297,0.585,138.133,5.31
+132,Mustafa saboori,Habibi afghan,6eyUsfAm4oskVxLpeLJRJb,51,1q3MhMPI0FVeeLtUsa668A,63,no specific genre,569392,0.384,0.448,10,-10.235,0,0.0477,0.0273,0.00151,0.139,0.0524,138.115,2.83
+133,Camila cabello,Perfect,7N1fSNc1rhiwWt2l8FOgjm,58,4nDoRrQiYLoBzwC5BhVJzF,53,no specific genre,97327,0.289,0.363,11,-7.513,0,0.0361,0.404,0.0,0.102,0.133,185.537,3.13
+134,A.r. rahman,Kaadhalai solla mudiyatha,4WyPaZn24aTEowohl4jHA3,51,1mYsTxnqsietFxj1OgoGbG,51,no specific genre,43428,0.546,0.494,2,-10.597,1,0.0351,0.76,2.46e-06,0.0797,0.268,125.969,4.87
+135,Addy,Tum kyu chale aate ho (lofi mix),0yJ1vXLwRjSzeU2WeZoxi7,50,7wtB9U5MCgv8lswwelNUFZ,79,no specific genre,26660301,0.557,0.387,6,-9.416,0,0.0267,0.0279,6.16e-06,0.369,0.153,98.089,2.9
+136,Jubin nautiyal,Wafa na raas aayee,7rjFYm6THGNETjg3vb1Tof,50,1tqysapcCh1lWEAc9dIFpa,80,no specific genre,28564011,0.641,0.869,2,-4.024,0,0.0452,0.559,0.0,0.0782,0.558,98.03,4.8
+137,Jubin nautiyal,Dil lauta do,1VfUpyKz9uN7et8t6Qhe7v,50,1tqysapcCh1lWEAc9dIFpa,32,no specific genre,442,0.435,0.53,2,-5.922,0,0.0277,0.562,0.0,0.0947,0.334,100.51,5.04
+138,Parry sidhu,Tu shayar banaagi,4APdbH7o8nQgnfM7I5snHl,51,6TRoD57nepxtpziVbxDOSs,39,no specific genre,8296,0.715,0.601,11,-5.544,0,0.0919,0.621,0.0,0.11,0.361,87.036,3.33
+139,Dj omkar orb,Bharat ka baccha jai shree ram bolega,3lcNtEKiwGv5VuQJXW1KhJ,50,7qrtYgbTIkfPdeD4vLdztr,79,no specific genre,1895651,0.512,0.847,6,-3.857,0,0.0712,0.000403,0.774,0.644,0.405,113.583,5.13
+140,Seedhe maut,Nanchaku,6YwiqqQ5xoeUkPwrn9cfEw,50,2oBG74gAocPMFv6Ij9ykdo,76,no specific genre,7124265,0.813,0.664,2,-8.793,1,0.318,0.142,0.0,0.173,0.44,140.103,3.22
+141,Gulab sidhu,Jahangir di haveli,4n6e7UDeilgfsskh2S3MgN,51,0OytfiwNkc1KzXE4ImyjgW,76,no specific genre,7124265,0.624,0.669,11,-4.01,0,0.17,0.0387,1.54e-06,0.129,0.469,81.958,3.17
+142,Arjan dhillon,Begani raat,0bK2va3t5efTbanNP0HIFi,51,64DvMieEUCdrYKmEIhDt8G,59,no specific genre,212719,0.754,0.49,6,-11.365,1,0.12,0.00763,0.0,0.11,0.531,82.851,3.33
+143,Pawan singh,Aara,3ANN2JcxCwZdlR1wd7Li8B,50,1T7MiVJ2MJlR5GKi11w4VT,54,no specific genre,234764,0.812,0.967,10,-2.488,0,0.0606,0.216,2.95e-06,0.652,0.818,123.022,3.21
+144,Becky hill,My heart goes (la di da) (feat. topic),4xMbBESczlHPUO8QeYi56p,73,4EPJlUEBy49EX1wuFOvtjK,76,no specific genre,562332,0.695,0.781,7,-5.578,0,0.0452,0.0185,3.12e-05,0.295,0.456,124.04,2.48
+145,Baby keem,16,1Is8hGpkGMiePASAxBluxM,78,5SXuuuRpukkTvsLuUknva1,68,no specific genre,2495731,0.701,0.782,1,-4.987,1,0.138,0.0918,2.31e-06,0.124,0.57,94.03,2.6
+146,Kslv noh,Override,0KYvs7DKC7Cl5IHmwpP13f,78,2ElMqlv5py0QFIVXUff627,79,no specific genre,1176728,0.688,0.761,4,-4.607,0,0.163,0.00477,0.41,0.175,0.536,111.014,1.91
+147,Saemy,Papa hai,0KsE8bkUYyyLlxuNptN5tc,50,4u5irqeYAcUg0pKBES0RQs,33,no specific genre,2844,0.917,0.577,9,-6.453,0,0.188,0.158,0.0,0.369,0.541,120.009,3.32
+148,Central cee,Loading,4vzJrkfHbCGaodPA5RY5BV,77,5H4yInM5zmHqpKIoMNAx4r,71,no specific genre,485167,0.85,0.68,3,-6.18,0,0.338,0.732,0.0,0.0964,0.694,144.006,2.89
+149,Karan randhawa,Jatti,5Y9ztJNxQjKwjBxAN54pJS,50,3mnR9SJ3hfV6EcrGKH44H9,72,no specific genre,4889429,0.622,0.669,6,-7.575,1,0.0906,0.357,0.0,0.205,0.73,78.084,2.58
+150,Bruno mars,Just the way you are,27QQSJbO5w34WyZPVELygt,0,0du5cEVh5yTK9QJze8zA0C,65,no specific genre,58394,0.635,0.843,5,-5.413,1,0.0432,0.0151,0.0,0.0876,0.434,109.014,3.68
+151,Bruno mars,Talking to the moon,6PAIBT51goao7IlFgfoLDJ,0,0du5cEVh5yTK9QJze8zA0C,74,no specific genre,22364346,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,3.63
+152,Bruno mars,Skate,3UKvpxMCUKRwrLselgLQt9,0,0du5cEVh5yTK9QJze8zA0C,64,no specific genre,654802,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,3.39
+153,Bruno mars,After last night,45xxQo8wexX4p6DnFCyOMC,0,0du5cEVh5yTK9QJze8zA0C,53,no specific genre,508570,0.651,0.703,0,-8.958,0,0.0816,0.0297,0.0,0.0608,0.647,140.051,4.16
+154,Bruno mars,Leave the door open,3ZJND4wSYOi5DsSS1kt4tH,0,0du5cEVh5yTK9QJze8zA0C,48,no specific genre,51375,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+155,Bruno mars,Skate,1Lhqq8EpmFaOXnsU0uh20d,0,0du5cEVh5yTK9QJze8zA0C,66,no specific genre,155214,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,3.39
+156,Bruno mars,That's what i like,2RfStOTI2vjuMVbcN08G23,0,0du5cEVh5yTK9QJze8zA0C,48,no specific genre,51375,0.852,0.551,1,-4.951,1,0.0416,0.0146,0.0,0.0898,0.85,134.061,3.42
+157,Bruno mars,Just the way you are - carl louis & martin danielle classic mix,4Q7pejOhpdIlBIVOCX74z7,0,0du5cEVh5yTK9QJze8zA0C,54,no specific genre,60814,0.718,0.541,5,-7.727,1,0.0497,0.0185,0.000535,0.0804,0.453,127.004,5.3
+158,Bruno mars,Marry you,2MhxIByFz2l67nEvAAI2Zk,0,0du5cEVh5yTK9QJze8zA0C,79,no specific genre,1386202,0.62,0.832,10,-4.848,1,0.0361,0.331,0.0,0.104,0.482,144.925,3.84
+159,Bruno mars,After last night,7sOamxM4WbJHCTSRptdxse,0,0du5cEVh5yTK9QJze8zA0C,82,no specific genre,6594306,0.651,0.703,0,-8.958,0,0.0816,0.0297,0.0,0.0608,0.647,140.051,4.16
+160,Bruno mars,Grenade - acoustic,1bWZPnFtUsPsHDD9KhldCU,0,0du5cEVh5yTK9QJze8zA0C,49,no specific genre,64824,0.661,0.389,2,-6.161,0,0.0296,0.822,0.0,0.121,0.426,97.873,4.11
+161,Bruno mars,Skate,576IrYxgSWj3dQ8a9zcM6w,0,0du5cEVh5yTK9QJze8zA0C,89,no specific genre,67609711,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,3.39
+162,Bruno mars,When i was your man,2cABcQoW6uThyXYI83E7po,0,0du5cEVh5yTK9QJze8zA0C,59,no specific genre,18587,0.615,0.28,0,-8.648,1,0.0433,0.932,0.0,0.0877,0.387,72.797,3.56
+163,Bruno mars,Leave the door open,6BX8e5STQ3fBHTBsu6dDYO,0,0du5cEVh5yTK9QJze8zA0C,64,no specific genre,3594505,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+164,Bruno mars,Leave the door open,4GwYTPnlq3Ygkr3A6lbWxn,0,0du5cEVh5yTK9QJze8zA0C,60,no specific genre,1706634,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+165,Bruno mars,When i was your man,0KX7I079JIb2ekmqO92A4y,0,0du5cEVh5yTK9QJze8zA0C,48,no specific genre,95855,0.615,0.28,0,-8.648,1,0.0433,0.932,0.0,0.0877,0.387,72.797,3.56
+166,Bruno mars,Leave the door open,7oNAx1KRxEvhe585FFz0Vb,0,0du5cEVh5yTK9QJze8zA0C,51,no specific genre,341692,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+167,Bruno mars,After last night,3CiC59KSmkohPPw5EFuL3s,0,0du5cEVh5yTK9QJze8zA0C,66,no specific genre,5897201,0.651,0.703,0,-8.958,0,0.0816,0.0297,0.0,0.0608,0.647,140.051,4.16
+168,Bruno mars,Leave the door open,0zu8DaquGIUB1XhOiiRKQW,0,0du5cEVh5yTK9QJze8zA0C,76,no specific genre,7302949,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+169,Bruno mars,Leave the door open,2TmVhkBDkMRmfp3vCF632g,0,0du5cEVh5yTK9QJze8zA0C,55,no specific genre,96957,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+170,Bruno mars,Talking to the moon,2iEaLlj6HBhK8pof511vZf,0,0du5cEVh5yTK9QJze8zA0C,81,no specific genre,9592459,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,3.63
+171,Bruno mars,Skate,6WHsC1ZFHsdsCzNsQumbCP,1,0du5cEVh5yTK9QJze8zA0C,53,no specific genre,97327,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,3.39
+172,Bruno mars,After last night,0bBHITOsdAdq5ykyH0amFX,0,0du5cEVh5yTK9QJze8zA0C,51,no specific genre,43428,0.651,0.703,0,-8.958,0,0.0816,0.0297,0.0,0.0608,0.647,140.051,4.16
+173,Bruno mars,Leave the door open,2pvRescv6Av6N5Dy75I4xE,0,0du5cEVh5yTK9QJze8zA0C,71,no specific genre,485167,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+174,Bruno mars,Talking to the moon,1cxG7sMMzRYAhimZSg5lab,0,0du5cEVh5yTK9QJze8zA0C,60,no specific genre,1706634,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,3.63
+175,Bruno mars,Leave the door open,6Pk0Rcj7RkSZbAyKTAE3So,0,0du5cEVh5yTK9QJze8zA0C,61,no specific genre,171826,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+176,Bruno mars,After last night,3SXHpfEV5Nqn2w5dPCC9zE,0,0du5cEVh5yTK9QJze8zA0C,71,no specific genre,1616655,0.651,0.703,0,-8.958,0,0.0816,0.0297,0.0,0.0608,0.647,140.051,4.16
+177,Bruno mars,Leave the door open,6PNGArMfom4pimHkbCigqH,0,0du5cEVh5yTK9QJze8zA0C,32,no specific genre,426,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+178,Bruno mars,Smokin out the window,63xgWgtgrakQm0f2z4Uvn4,0,0du5cEVh5yTK9QJze8zA0C,33,no specific genre,1012,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,3.29
+179,Bruno mars,Leave the door open,7FFnHFhgVjGLSk0prGYW35,0,0du5cEVh5yTK9QJze8zA0C,69,no specific genre,5021964,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+180,Bruno mars,Leave the door open,1A6Nsavkymw5Gjp2msckYY,0,0du5cEVh5yTK9QJze8zA0C,59,no specific genre,107703,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+181,Bruno mars,Treasure,4FSGGAbUvvpXuwFic0SyQc,0,0du5cEVh5yTK9QJze8zA0C,47,no specific genre,194870,0.872,0.699,5,-5.071,0,0.0349,0.0291,0.000123,0.0639,0.934,116.033,2.93
+182,Bruno mars,Leave the door open,6tmyhRPCIYUimJ9PTNNu6Z,0,0du5cEVh5yTK9QJze8zA0C,63,no specific genre,569392,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+183,Bruno mars,Marry you,3PvqisPIIW6PDcPbGxERJl,0,0du5cEVh5yTK9QJze8zA0C,53,no specific genre,97327,0.62,0.832,10,-4.848,1,0.0361,0.331,0.0,0.104,0.482,144.925,3.84
+184,Bruno mars,Smokin out the window,3vWiOENgN9vfEiut9g8dRY,0,0du5cEVh5yTK9QJze8zA0C,51,no specific genre,43428,0.627,0.618,2,-8.529,1,0.0437,0.0558,0.0,0.351,0.848,82.03,3.29
+185,Bruno mars,Talking to the moon,3iTNvukX0MmLnrlwIi14CZ,0,0du5cEVh5yTK9QJze8zA0C,79,no specific genre,26660301,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,3.63
+186,Bruno mars,Grenade - passion pit remix,2P4yq1p9PaKhUA4NwxVuGE,0,0du5cEVh5yTK9QJze8zA0C,80,no specific genre,28564011,0.704,0.701,5,-4.314,1,0.0286,0.00391,0.0,0.058,0.584,108.992,6.18
+187,Bruno mars,24k magic,2h4WzFQwC5aS7Trdtsn6lV,0,0du5cEVh5yTK9QJze8zA0C,32,no specific genre,442,0.818,0.804,1,-4.282,1,0.0798,0.034,0.0,0.154,0.634,106.969,3.77
+188,Bruno mars,After last night,5unWdlkyZWGiknxZpZOWhn,0,0du5cEVh5yTK9QJze8zA0C,39,no specific genre,8296,0.651,0.703,0,-8.958,0,0.0816,0.0297,0.0,0.0608,0.647,140.051,4.16
+189,Bruno mars,Skate,2XvGrcNbXZ4FTCL5sDZKYV,0,0du5cEVh5yTK9QJze8zA0C,79,no specific genre,1895651,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,3.39
+190,Bruno mars,Calling all my lovelies,096GSGkyj73NLrKB0JXisM,0,0du5cEVh5yTK9QJze8zA0C,76,no specific genre,7124265,0.662,0.705,1,-6.56,0,0.0399,0.0392,2.38e-06,0.105,0.865,160.0,4.17
+191,Bruno mars,24k magic - r3hab remix,17WoColcCmytlb4AJNCA3B,0,0du5cEVh5yTK9QJze8zA0C,76,no specific genre,7124265,0.764,0.708,5,-5.692,0,0.21,0.146,0.0,0.33,0.566,106.175,2.64
+192,Bruno mars,Just the way you are,6ptRBUsJWYzd9OxGuK3xYD,1,0du5cEVh5yTK9QJze8zA0C,59,no specific genre,212719,0.635,0.843,5,-5.413,1,0.0432,0.0151,0.0,0.0876,0.434,109.014,3.68
+193,Bruno mars,Skate,2a2kp7oDRifHhup1dpzAtl,0,0du5cEVh5yTK9QJze8zA0C,54,no specific genre,234764,0.708,0.598,5,-8.365,1,0.0291,0.037,0.0,0.17,0.698,112.027,3.39
+194,Bruno mars,Leave the door open,545a8Ddjhp1ldQdq1499lF,0,0du5cEVh5yTK9QJze8zA0C,76,no specific genre,562332,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+195,Bruno mars,Leave the door open,4XgtHNWdDYshPIzK37cvGC,0,0du5cEVh5yTK9QJze8zA0C,68,no specific genre,2495731,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+196,Bruno mars,Leave the door open,2uBYxTaJan4vR9z0ckwBc5,0,0du5cEVh5yTK9QJze8zA0C,79,no specific genre,1176728,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,4.03
+197,Crush,Rush hour (feat. j-hope of bts),5aucVLKiumD89mxVCB4zvS,79,6aLdhHUqgdKE86xbtNmY8g,33,no specific genre,2844,0.738,0.714,0,-5.235,1,0.249,0.157,0.0,0.31,0.74,95.035,2.96
+198,J balvin,Ay vamos,1mqondFAiCUQ7i5iS8CAej,6,1vyhD5VmyZ7KMfW5gqLgo5,71,no specific genre,485167,0.718,0.711,8,-5.746,0,0.11,0.157,5.52e-05,0.1,0.92,173.916,3.77
+199,J balvin,Ahora,7EHmIBSyFLRm9Ocm3QAJZu,5,1vyhD5VmyZ7KMfW5gqLgo5,72,no specific genre,4889429,0.81,0.784,3,-3.223,0,0.0622,0.0874,0.000166,0.083,0.817,88.001,4.25
