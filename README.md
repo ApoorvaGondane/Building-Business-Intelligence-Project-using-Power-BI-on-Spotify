@@ -13,4 +13,4 @@ Project Description:
 Spotify is one of the leading music streaming app due to its enormous playlist and its discovery weekly suggestions. It has generated over 600 gigabytes of data daily. By gathering such large amount of data, Spotify is able to understand user behavior. The project addresses a clear need for personalisation of music interests to better engage the target audience. This can be achieved by conducting a business intelligence analysis to understand, innovate, make use of various different insights unearthed by this analysis.
 
 Primary Azure Technology:
-Power BI Embedded, Visual Studio
+Power BI Embedded, Visual Studio, Databases, Analytics.
